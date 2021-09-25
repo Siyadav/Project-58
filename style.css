@@ -1,0 +1,44 @@
+body{
+ text-align: center;
+  background-image: linear-gradient(#f2eb11 0%, #ed9ab0 100%);
+  background-repeat: no-repeat;
+}
+h1{
+  text-shadow: 2px 2px #13e87d;
+  font-size: 40px;
+  
+}
+#Intro{
+  padding: 20px;
+  font-size: 25px;
+  text-align: center;
+ font-family: 'Are You Serious', cursive;
+}
+#Body{
+  padding: 20px;
+  font-size: 25px;
+  text-align: center;
+}
+.links: hover{
+   background-color: fuchsia; 
+}
+.links{
+    float: left;
+    color: rebeccapurple;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    font-family: sans-serif;
+    font-size; 20px;
+}
+.menu{
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+
